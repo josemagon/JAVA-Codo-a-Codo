@@ -1,5 +1,6 @@
-# Guayoyo Café
-<strong> Proyecto final JAVA comisión #2111</strong>
+<img src="https://github.com/josemagon/JAVA-Codo-a-Codo/blob/master/Guayoyo_Cafe_proyecto_final/web/assets/capture1.PNG">
+
+# Proyecto final JAVA comisión #2111
 
 <p>Decidí hacer el proyecto de CRUD acerca de una cafetería. La web tiene una página principal en la que se ve un encabezado y luego una lista de la variedad de café que ofrece la cafetería.</p>
 <p>Los invitados pueden ver la galería de cafés disponibles y también seleccionar uno de los café para ir a la página de ese café donde podrán ver con más detalle la descripción del mismo.</p>
